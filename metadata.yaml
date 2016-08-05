@@ -1,0 +1,37 @@
+_repo: Nothing-to-Eat_5868
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Alger, Horatio
+    aliases:
+    - Starr, Julian
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+  - agent_name: Haliburton, Thomas Chandler
+    alias: Slick, Sam
+    birthdate: 1796
+    deathdate: 1865
+    gutenberg_agent_id: '1880'
+    url: http://www.gutenberg.org/2009/agents/1880
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Chandler_Haliburton
+description: Variously attributed to Horatio Alger, Jr. and T. C. Haliburton.
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+- GITenberg
+title: Nothing to Eat
+url: http://www.gutenberg.org/ebooks/5868
